@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nhyadav
 - 👀 I’m interested in data science,Artificial Intelligence,machine learning and deep learning
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me , juct conect me on linkedin "https://www.linkedin.com/in/narayan-hari-yadav-b0a966200"
 
 <!---
