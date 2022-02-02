@@ -2,7 +2,7 @@
 
 I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University of Mumbai. I'm interested in learning new technologies and implementing its usecases/applications. and open for contributing open-source/github repositories.
 
-## Skills:
+## Languages and Tools:
 <a><img src="https://img.shields.io/static/v1?label=3&message=Python&color=red&style=flat&logo=python" alt="python"></a>
 <a><img src="https://img.shields.io/static/v1?label=&message=Django&color=red&style=flat&logo=django" alt="django"></a>
 <a><img src="https://img.shields.io/static/v1?label=&message=Heroku&color=red&style=flat&logo=heroku" alt="heroku"></a>
