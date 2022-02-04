@@ -10,8 +10,8 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 <a><img src="https://img.shields.io/static/v1?label=&message=Numpy&color=green&style=flat&logo=numpy" alt="numpy"></a>
 <a><img src="https://img.shields.io/static/v1?label=&message=VS code&color=green&style=flat&logo=vs" alt="html"></a>
 <a><img src="https://img.shields.io/static/v1?label=&message=jupyter notebook&color=green&style=flat&logo=jupyter" alt="jupyter"></a>
-<a><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=red&style=flat&logo=bootstrap" alt="bootsrap"></a>
-<a><img src="https://img.shields.io/static/v1?label=&message=Matplotlib&color=red&style=flat&logo=matplotlib" alt="Matplotlib"></a>
-<a><img src="https://img.shields.io/static/v1?label=&message=Git&color=red&style=flat&logo=git" alt="git"></a>
+<a><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=green&style=flat&logo=bootstrap" alt="bootsrap"></a>
+<a><img src="https://img.shields.io/static/v1?label=&message=Matplotlib&color=green&style=flat&logo=matplotlib" alt="Matplotlib"></a>
+<a><img src="https://img.shields.io/static/v1?label=&message=Git&color=green&style=flat&logo=git" alt="git"></a>
 ## Github README stats
 [![nhyadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhyadav&show_icons=true&theme=radical)](https://github.com/nhyadav/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhyadav&hide=javascript&layout=compact)](https://github.com/nhyadav/github-readme-stats)
