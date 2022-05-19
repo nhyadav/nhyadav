@@ -13,6 +13,8 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 <a><img src="https://img.shields.io/static/v1?label=markup&message=Bootstrap&color=green&style=flat&logo=bootstrap" alt="bootsrap"></a>
 <a><img src="https://img.shields.io/static/v1?label=lib&message=Matplotlib&color=green&style=flat&logo=matplotlib" alt="Matplotlib"></a>
 <a><img src="https://img.shields.io/static/v1?label=version control&message=Git&color=green&style=flat&logo=git" alt="git"></a>
+<a><img src="https://img.shields.io/static/v1?label=version control&message=Sklearn&color=green&style=flat&logo=sklearn" alt="sklearn"></a>
+<a><img src="https://img.shields.io/static/v1?label=version control&message=Seaborn&color=green&style=flat&logo=seaborn" alt="seaborn"></a>
 
 ## Implemented Projects
 - [Fraud Call Detection](https://github.com/nhyadav/fraud-call-detection-app.git)
@@ -25,6 +27,13 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
   - Compute Engine
   - App Engine
   - Big Query
-- Badge of Complilating Quest: [click here](https://google.qwiklabs.com/public_profiles/181aab30-47a0-4220-8f85-2e22fb588ff3)
+- Badge of Complition Quest: [click here](https://google.qwiklabs.com/public_profiles/181aab30-47a0-4220-8f85-2e22fb588ff3)
+
+## Frameworks
+- Django
+- Flask
+- Keras
+
+
 ## Github README stats
 [![nhyadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhyadav&show_icons=true&theme=radical)](https://github.com/nhyadav/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhyadav&hide=javascript&layout=compact)](https://github.com/nhyadav/github-readme-stats)
