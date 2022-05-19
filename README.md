@@ -19,13 +19,13 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 ## Skills
 - Visulization of data and extract the insight from data.
 - Data Preprocessing
-- Implementing the ML models for problems domain.
+- Implementing the ML models `Supervised model` for problems domain.
 - Optimization of models performance.
 - Tunning the best model with best parameters for problems.
 - Implementing the ANN for (`Regression or Classification problems`) in Deep Learning.
-- Implementing the CNN for (Image Classification) in Deep Learning.
-- Implementing the RNN for (Natural Language Procesing) in Deep Learning.
-- Implementing the REST APIs.
+- Implementing the CNN for (`Image Classification`) in Deep Learning.
+- Implementing the RNN for (`Natural Language Procesing`) in Deep Learning.
+- Implementing the `REST APIs`.
 
 ## Implemented Projects
 - [Fraud Call Detection](https://github.com/nhyadav/fraud-call-detection-app.git)
