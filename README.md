@@ -45,6 +45,11 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 - Flask
 - Keras
 
+## Operating Systems & Environment
+- Windows 10
+- Linux (Ubuntu)
+- Anaconda 3
+
 
 ## Github README stats
 [![nhyadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhyadav&show_icons=true&theme=radical)](https://github.com/nhyadav/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhyadav&hide=javascript&layout=compact)](https://github.com/nhyadav/github-readme-stats)
