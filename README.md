@@ -15,9 +15,9 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 <a><img src="https://img.shields.io/static/v1?label=version control&message=Git&color=green&style=flat&logo=git" alt="git"></a>
 
 ## Projects
-- ![Fraud Call Detection](https://github.com/nhyadav/fraud-call-detection-app.git)
-- ![News Article Sorting](https://github.com/nhyadav/News-Article-Sorting.git)
-- ![Jobseeker](https://github.com/nhyadav/Apanajobportal.git)
-- ![Resume Screening](https://github.com/nhyadav/mock-interview-with-AI.git)
+- [Fraud Call Detection](https://github.com/nhyadav/fraud-call-detection-app.git)
+- [News Article Sorting](https://github.com/nhyadav/News-Article-Sorting.git)
+- [Jobseeker](https://github.com/nhyadav/Apanajobportal.git)
+- [Resume Screening](https://github.com/nhyadav/mock-interview-with-AI.git)
 ## Github README stats
 [![nhyadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhyadav&show_icons=true&theme=radical)](https://github.com/nhyadav/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhyadav&hide=javascript&layout=compact)](https://github.com/nhyadav/github-readme-stats)
