@@ -17,7 +17,8 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 <a><img src="https://img.shields.io/static/v1?label=lib&message=Seaborn&color=green&style=flat&logo=seaborn" alt="seaborn"></a>
 
 ## Skills
-- Visulization of data and extract the insight from data.
+- Transformin unstructured data to structure data.
+- Visualization of data and extract the insight from data.
 - Data Preprocessing
 - Implementing the ML models (`Supervised models`) for problems domain.
 - Optimization of models performance.
