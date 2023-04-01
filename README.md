@@ -1,6 +1,6 @@
-# Hello Github users!
+# Hello GitHub User!
 
-I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University of Mumbai. I'm interested in learning new technologies and implementing its usecases/applications. and open for contributing open-source/github repositories.
+This is Narayan Hari Yadav, I have completed my master's (M.Sc IT) from Mumbai University. I'm interested in learning new technologies and implementing their use cases/applications. and open for contributing to open-source/GitHub repositories.
 
 ## Languages and Tools:
 <a><img src="https://img.shields.io/static/v1?label=3&message=Python&color=green&style=flat&logo=python" alt="python"></a>
@@ -17,18 +17,19 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 <a><img src="https://img.shields.io/static/v1?label=lib&message=Seaborn&color=green&style=flat&logo=seaborn" alt="seaborn"></a>
 
 ## Skills
-- Converting unstructured data to structure data.
-- Visualization of data and extract the insight from data.
+- Converting unstructured data to structured data.
+- Visualization of data and extracting insight from unstructured data.
 - Data Preprocessing
-- Implementing the ML models (`Supervised models`) for problems domain.
-- Optimization of models performance.
-- Tunning the best model with best parameters for problems.
+- Implementation of the ML models (`Supervised models` and `Unsupervised models`) for the problems domain.
+- Optimization of model performance.
+- Tunning the best model with the best parameters for problems.
 - Implementing the ANN for (`Regression or Classification problems`) in Deep Learning.
 - Implementing the CNN for (`Image Classification`) in Deep Learning.
 - Implementing the RNN for (`Natural Language Procesing`) based problems in Deep Learning.
-- Implementing the `REST APIs`.
+- Implementing/Integrating the `REST APIs`.
 
 ## Implemented Projects
+- [MLGUI](https://github.com/nhyadav/MLGUI.git)
 - [Fraud Call Detection](https://github.com/nhyadav/fraud-call-detection-app.git)
 - [News Article Sorting](https://github.com/nhyadav/News-Article-Sorting.git)
 - [Jobseeker](https://github.com/nhyadav/Apanajobportal.git)
@@ -39,7 +40,7 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
   - Compute Engine
   - App Engine
   - Big Query
-- Badge of Complition Quest: [click here](https://google.qwiklabs.com/public_profiles/181aab30-47a0-4220-8f85-2e22fb588ff3)
+- Badge of Completion Quest: [click here](https://google.qwiklabs.com/public_profiles/181aab30-47a0-4220-8f85-2e22fb588ff3)
 
 ## Frameworks
 - Django
@@ -50,7 +51,6 @@ I'm Narayan Hari Yadav, currently, I'm pursuing post graduation from University 
 - Windows 10
 - Linux (Ubuntu)
 - Anaconda 3
-
 
 ## Github README stats
 [![nhyadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhyadav&show_icons=true&theme=radical)](https://github.com/nhyadav/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhyadav&hide=javascript&layout=compact)](https://github.com/nhyadav/github-readme-stats)
