@@ -1,6 +1,6 @@
 # Hello GitHub User!
 
-This is Narayan Hari Yadav, I have completed my master's (M.Sc IT) from Mumbai University. I'm interested in learning new technologies and implementing their use cases/applications. and open for contributing to open-source/GitHub repositories.
+This is Narayan Hari Yadav, I have completed my Master's (M.Sc IT) from Patkar-Varde College(Mumbai University). I'm interested in learning new technologies and implementing their use cases/applications. and open for contributing to open-source/GitHub repositories.
 
 ## Languages and Tools:
 <a><img src="https://img.shields.io/static/v1?label=3&message=Python&color=green&style=flat&logo=python" alt="python"></a>
@@ -29,7 +29,7 @@ This is Narayan Hari Yadav, I have completed my master's (M.Sc IT) from Mumbai U
 - Implementing/Integrating the `REST APIs`.
 
 ## Implemented Projects
-- [MLGUI](https://github.com/nhyadav/MLGUI.git)
+- [MLGUI](https://mlgui-e219d.web.app/)
 - [Fraud Call Detection](https://github.com/nhyadav/fraud-call-detection-app.git)
 - [News Article Sorting](https://github.com/nhyadav/News-Article-Sorting.git)
 - [Jobseeker](https://github.com/nhyadav/Apanajobportal.git)
