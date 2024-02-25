@@ -1,4 +1,5 @@
-👋 Hi there! I'm Narayan Hari Yadav, a passionate data scientist with over 2 years of experience leveraging Python to extract insights and drive informed decisions from data. I specialize in transforming complex datasets into actionable strategies and solutions that drive business growth.
+👋 Hi there! I'm Narayan Hari Yadav, a passionate data scientist with over 2 years of experience leveraging Python to extract insights and drive informed decisions from data. 
+🚀 I specialize in transforming complex datasets into actionable strategies and solutions that drive business growth.
 
 🔬 In my journey as a data scientist, I've honed my skills in:
 
@@ -11,9 +12,8 @@
 - **Version Control**: Experienced in using Git for version control and collaboration on projects, ensuring code integrity and reproducibility.
 - **Data Preprocessing**: Skilled in data cleaning, preprocessing, and feature engineering techniques to prepare datasets for analysis and modeling.
 
-🚀 I'm passionate about leveraging data-driven insights to solve real-world problems and drive innovation. Whether it's optimizing business processes, enhancing customer experiences, or uncovering hidden opportunities, I thrive on turning data into actionable insights that make a difference.
 
-📫 Let's connect! Feel free to reach out to me here on GitHub or connect with me on LinkedIn [insert LinkedIn profile link] to discuss potential collaborations, projects, or just to geek out about data science and Python!
+📫 Let's connect! Feel free to reach out to me here on GitHub or connect with me on LinkedIn [https://www.linkedin.com/in/narayan-hari-yadav-b0a966200/] to discuss potential collaborations, projects, or just to geek out about data science and Python!
 
 
 ## Languages and Tools:
